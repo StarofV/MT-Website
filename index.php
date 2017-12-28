@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Mortuus Terra</title>
-<link rel="stylesheet" type="text/css" href="style/css_file.css">
-</head>
-<body>
-      <h1>Welcome to the Mortuus Terra website</h1>
-</body>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Mortuus Terra</title>
+		<link href="index.css" rel="stylesheet" type="text/css" />
+	</head>
+
+	<body>
+		<font size="7"> <b> <center>Welcome to Mortuus Terra!</center> </b> </font>
+	</body>
+
 </html>
