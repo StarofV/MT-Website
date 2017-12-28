@@ -1,3 +1,5 @@
 <style>
-
+body {
+    background-image: url("/var/www/html/lib/background.png");
+}
 </style>
